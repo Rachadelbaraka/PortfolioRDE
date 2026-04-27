@@ -16,7 +16,7 @@ Ce portfolio a pour objectif de présenter :
 ## 🌐 Accès au portfolio
 
 🔗 **Portfolio en ligne (GitHub Pages)**
-👉 [https://ton-lien-github-pages](https://rachadelbaraka.github.io/PortfolioRDE/)
+👉 [[https://ton-lien-github-pages](https://rachadelbaraka.github.io/PortfolioRDE/)](https://rachadelbaraka.github.io/PortfolioRDE/)
 
 📊 **Diaporama de présentation (E5)**
 👉 https://ton-lien-diapo
